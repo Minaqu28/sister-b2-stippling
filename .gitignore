@@ -1,0 +1,12 @@
+build/
+bin/
+*.o
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.exp
+*.lib
+!output/.gitkeep
+!input/.gitkeep
+frames/
